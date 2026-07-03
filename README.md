@@ -1,5 +1,10 @@
 # Metacryst Materials Informatics Pipeline 🚀
 
+
+VISIT THE DEPLOYED MODEL WEBSITE 
+
+https://metacryst.streamlit.app/
+
 An end-to-end machine learning architecture designed to predict the **Tensile Strength: Ultimate (UTS)** of complex alloys based on their elemental compositions. This project bridges physical metallurgy and production-grade software engineering through automated data ingestion, mathematical domain validation, and non-linear regression modeling.
 
 ## 🛠 Technology Stack
