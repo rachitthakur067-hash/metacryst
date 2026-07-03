@@ -66,11 +66,3 @@ Run the Interactive UI:
 
 Bash
 streamlit run app.py
-
-### Step 3: Push it to GitHub normally
-Now that the file lives safely on your computer, save the file, open your terminal, and run the standard commands to upload it:
-
-```bash
-git add README.md
-git commit -m "docs: add comprehensive project documentation and metallurgical justification"
-git push origin main
